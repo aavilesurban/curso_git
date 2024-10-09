@@ -1,11 +1,10 @@
 programming languages:
-python
-c++
-c
-c#
-javascript
-mathlab
-
+python - mid
+c++ - strong
+c - weak
+c# - weak
+javascript - weak
+mathlab - strong
 
 foreign languages:
 french
