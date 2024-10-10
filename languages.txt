@@ -8,3 +8,4 @@ mathlab - strong
 
 foreign languages:
 french
+german
