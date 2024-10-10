@@ -9,3 +9,4 @@ mathlab
 
 foreign languages:
 french
+german
